@@ -1,4 +1,4 @@
-package advent.of.code;
+package advent.of.code.runner;
 
 import java.io.File;
 import java.io.FileReader;
@@ -8,6 +8,8 @@ import java.util.List;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
+
+import advent.of.code.IntCodeComputer;
 
 public class DayTwoRunner {
 	

@@ -1,4 +1,4 @@
-package advent.of.code;
+package advent.of.code.runner;
 
 import java.io.File;
 import java.io.FileReader;
@@ -6,6 +6,8 @@ import java.io.IOException;
 import java.util.List;
 
 import com.opencsv.bean.CsvToBeanBuilder;
+
+import advent.of.code.Module;
 
 public class DayOneRunner {
 	
