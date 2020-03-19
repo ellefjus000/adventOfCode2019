@@ -1,2 +1,4 @@
 # adventOfCode2019
 Advent of Code 2019
+
+Author: Justin Ellefson
